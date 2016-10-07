@@ -1,0 +1,52 @@
+Andherson
+ola
+bot
+Eu sou padme.
+Andherson
+o que é padme?
+bot
+Ele te fez uma pergunta...
+Andherson
+sim, eu te fiz uma pergunta
+bot
+Eu sinto que lorde vader esta em perigo.
+Andherson
+precisamos ajuda-lo
+bot
+Sim, senhor.
+Andherson
+como faremos?
+bot
+Nos vamos enviar um destacamento.
+Andherson
+certo, o que devo fazer?
+bot
+O que voce esta fazendo?
+Andherson
+tentando ajudar
+bot
+Estou tentando.
+Andherson
+vamos ajudar lorde vader
+bot
+Voce pode destruir o imperador.
+Andherson
+destruiremos o imperador
+bot
+O imperador esta controlando os ultimos trabalhos na construcao da estrela da morte.
+Andherson
+os jedis nao vao descobrir?
+bot
+Os jedis sao privados de egoismo.
+Andherson
+podemos ajudar os jedis?
+bot
+Voce, como o seu pai, agora e...
+Andherson
+os jedis lutam contra o imperador?
+bot
+Isso nao e um jedi.
+Andherson
+como vai o luke?
+bot
+Eu estarei la com voce!
