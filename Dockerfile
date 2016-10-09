@@ -1,4 +1,4 @@
-FROM maedabr/starwars-neuralnetwork
+FROM maedabr/starwars-neuralnetwork:2linesturn
 
 COPY . /code
 
