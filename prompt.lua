@@ -8,5 +8,3 @@ while true do
     io.write(print(eval.say(io.read())))
     io.flush()
 end
-
-
